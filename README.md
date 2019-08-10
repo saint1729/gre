@@ -7,8 +7,8 @@ The quizlet link is as follows:
 https://quizlet.com/in/417577789/barrons-800-with-mnemonics-flash-cards/
 
 If you'd like to clone the list, use the following delimiters:
-Separator: \n
-Adder: $@#
+Between Term and Definition: \n
+Between Cards: $@#
 
 The text is present in the file in the following path:
 vocabulary/barrons800_mnemonics.txt
