@@ -1,0 +1,23 @@
+python getMnemonic.py 1/words.txt | tee 1/scriptOutput.txt
+python getMnemonic.py 2/words.txt | tee 2/scriptOutput.txt
+python getMnemonic.py 3/words.txt | tee 3/scriptOutput.txt
+python getMnemonic.py 4/words.txt | tee 4/scriptOutput.txt
+python getMnemonic.py 5/words.txt | tee 5/scriptOutput.txt
+python getMnemonic.py 6/words.txt | tee 6/scriptOutput.txt
+python getMnemonic.py 7/words.txt | tee 7/scriptOutput.txt
+python getMnemonic.py 8/words.txt | tee 8/scriptOutput.txt
+python getMnemonic.py 9/words.txt | tee 9/scriptOutput.txt
+python getMnemonic.py 10/words.txt | tee 10/scriptOutput.txt
+python getMnemonic.py 11/words.txt | tee 11/scriptOutput.txt
+python getMnemonic.py 12/words.txt | tee 12/scriptOutput.txt
+python getMnemonic.py 13/words.txt | tee 13/scriptOutput.txt
+python getMnemonic.py 14/words.txt | tee 14/scriptOutput.txt
+python getMnemonic.py 15/words.txt | tee 15/scriptOutput.txt
+python getMnemonic.py 16/words.txt | tee 16/scriptOutput.txt
+python getMnemonic.py 17/words.txt | tee 17/scriptOutput.txt
+python getMnemonic.py 18/words.txt | tee 18/scriptOutput.txt
+python getMnemonic.py 19/words.txt | tee 19/scriptOutput.txt
+python getMnemonic.py 20/words.txt | tee 20/scriptOutput.txt
+python getMnemonic.py 21/words.txt | tee 21/scriptOutput.txt
+python getMnemonic.py 22/words.txt | tee 22/scriptOutput.txt
+
