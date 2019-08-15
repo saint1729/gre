@@ -1,0 +1,23 @@
+python noMnemonics.py 1/scriptOutput.txt
+python noMnemonics.py 2/scriptOutput.txt
+python noMnemonics.py 3/scriptOutput.txt
+python noMnemonics.py 4/scriptOutput.txt
+python noMnemonics.py 5/scriptOutput.txt
+python noMnemonics.py 6/scriptOutput.txt
+python noMnemonics.py 7/scriptOutput.txt
+python noMnemonics.py 8/scriptOutput.txt
+python noMnemonics.py 9/scriptOutput.txt
+python noMnemonics.py 10/scriptOutput.txt
+python noMnemonics.py 11/scriptOutput.txt
+python noMnemonics.py 12/scriptOutput.txt
+python noMnemonics.py 13/scriptOutput.txt
+python noMnemonics.py 14/scriptOutput.txt
+python noMnemonics.py 15/scriptOutput.txt
+python noMnemonics.py 16/scriptOutput.txt
+python noMnemonics.py 17/scriptOutput.txt
+python noMnemonics.py 18/scriptOutput.txt
+python noMnemonics.py 19/scriptOutput.txt
+python noMnemonics.py 20/scriptOutput.txt
+python noMnemonics.py 21/scriptOutput.txt
+python noMnemonics.py 22/scriptOutput.txt
+
